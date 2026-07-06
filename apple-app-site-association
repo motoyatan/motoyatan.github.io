@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N23DUDY6HD.motoyan.sanpocompass",
+        "paths": [
+          "/sanpo-log/import",
+          "/sanpo-log/import/",
+          "/sanpo-log/import/*"
+        ]
+      }
+    ]
+  }
+}
